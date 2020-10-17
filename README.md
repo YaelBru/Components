@@ -1,4 +1,6 @@
-# Collection of reusable components in React projects
+# React Components
+
+A collection of reusable components in React projects
 
 
 ## SidebarComponent
