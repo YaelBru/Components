@@ -1,8 +1,12 @@
-# SidebarComponent
+# Collection of reusable components in React projects
+
+-----------------------------------------------------
+
+## SidebarComponent
 
 A reusable sidebar component for React projects, with useState and useEffect hooks.
 
-## Implementation
+### Implementation
  
  In parent component: 
  ```
@@ -12,3 +16,6 @@ A reusable sidebar component for React projects, with useState and useEffect hoo
       <h1>Nav Item</h1>
     </Sidebar>
 ```
+
+-----------------------------------------------------
+
